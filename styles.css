@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-image: url("https://i.imgur.com/HmgXL86.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: cursive;
+  font-size: large;
+}
+
+#GameBody {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
